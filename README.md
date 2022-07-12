@@ -57,19 +57,6 @@
 # Certificates:
 
 <p align="center">
-    <img alt="LinkedIn - C++" title="C++ LinkedIn" src="https://github.com/denotevn/Dinh-Ngoc-Tuan/blob/main/certificate/Functional%20Programming%20C%2B%2B.png" width="200px" />
+    <img alt="LinkedIn - C++" title="C++ LinkedIn" src="https://github.com/denotevn/Dinh-Ngoc-Tuan/blob/main/certificate/Functional%20Programming%20C%2B%2B.png" width="350px" />
+    <img alt="LinkedIn - C++" title="C++ LinkedIn" src="https://github.com/denotevn/Dinh-Ngoc-Tuan/blob/main/certificate/Functional%20Programming%20C%2B%2B.png" width="350px" />
 <p align="center">
-  
-</p>
-
-<p align="center">
-  <a href="https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/python">
-    <img alt="Kaggle - Python" title="Kaggle - Python" src="certificates/Nguyen%20Huynh%20Minh%20Tien%20-%20Python.png" width="200px" />
-  </a>
-  <a href="https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-machine-learning">
-    <img alt="Kaggle - Intro to Machine Learning" title="Kaggle - Intro to Machine Learning" src="certificates/Nguyen%20Huynh%20Minh%20Tien%20-%20Intro%20to%20Machine%20Learning.png" width="200px" />
-  </a>
-  <a href="https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-deep-learning">
-    <img alt="Kaggle - Intro to Deep Learning" title="Kaggle - Intro to Deep Learning" src="certificates/Nguyen%20Huynh%20Minh%20Tien%20-%20Intro%20to%20Deep%20Learning.png" width="200px" />
-  </a>
-</p>
