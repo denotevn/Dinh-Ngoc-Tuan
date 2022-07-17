@@ -55,6 +55,6 @@
 # Certificates:
 
 <p align="center">
-    <img alt="LinkedIn - C++" title="C++ LinkedIn" src="https://github.com/denotevn/Dinh-Ngoc-Tuan/blob/main/certificate/Functional%20Programming%20C%2B%2B.png" width="400px" />
+    <img alt="LinkedIn - C++" title="C++ LinkedIn" src="https://github.com/denotevn/denotevn/blob/main/certificate/Function%20Programming%20C%2B%2B.png" width="400px" />
     <img alt="LinkedIn - C++" title="C++ LinkedIn" src="https://github.com/denotevn/denotevn/blob/main/certificate/Best-Practice-C%2B%2B.png" width="400px" />
 <p align="center">
