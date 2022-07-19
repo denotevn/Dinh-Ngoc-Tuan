@@ -10,8 +10,6 @@
 
 ## 📫 How to reach me:
 
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 <p align="center">
   <a href="https://www.linkedin.com/in/tuandinh999/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
@@ -43,8 +41,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denotevn&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="Tuan Dinh" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=denotevn&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="TuanDinh" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denotevn&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="Tuan Dinh" width="150%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=denotevn&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="TuanDinh" width="150%"/>
     </td>
     <td>
       <p align="center"> 
@@ -57,6 +55,6 @@
 # Certificates:
 
 <p align="center">
-    <img alt="LinkedIn - C++" title="C++ LinkedIn" src="https://github.com/denotevn/Dinh-Ngoc-Tuan/blob/main/certificate/Functional%20Programming%20C%2B%2B.png" width="400px" />
-    <img alt="LinkedIn - C++" title="C++ LinkedIn" src="https://github.com/denotevn/Dinh-Ngoc-Tuan/blob/main/certificate/Functional%20Programming%20C%2B%2B.png" width="400px" />
+    <img alt="LinkedIn - C++" title="C++ LinkedIn" src="https://github.com/denotevn/denotevn/blob/main/certificate/Function%20Programming%20C%2B%2B.png" width="400px" />
+    <img alt="LinkedIn - C++" title="C++ LinkedIn" src="https://github.com/denotevn/denotevn/blob/main/certificate/Best-Practice-C%2B%2B.png" width="400px" />
 <p align="center">
