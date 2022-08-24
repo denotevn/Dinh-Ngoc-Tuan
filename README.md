@@ -6,16 +6,16 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=denotevn" alt="denotevn" /> <img src="https://badges.pufler.dev/repos/denotevn" alt="Tuan Dinh" /> </p>
 
 
-- ✍ I'm a student of **[ITMO University](https://en.itmo.ru/) (ITMO), Saint Petersburg, Russian**
+- ✍ I'm a student of [ITMO University](https://en.itmo.ru/) (ITMO), Saint Petersburg, Russian
 
 - 🌱 I’m currently learning **Control algorithm for robot, AI/Machine Learning/DeepLearning, Computer vision and NPL.**
 
 - 💬 Ask me about **AI/ML/DL/Algorithms**
 
 - 📫 **How to reach me ?** 
-    + Email: **dinhngoctuan2131997@gmail.com**
-    + Facebook : **[Tuan Dinh](https://www.facebook.com/profile.php?id=100011042762760)**
-    + Telegram or WhatsApps: **+79210933145**
+    + Email: dinhngoctuan2131997@gmail.com
+    + Facebook : [Tuan Dinh](https://www.facebook.com/profile.php?id=100011042762760)
+    + Telegram or WhatsApps: +79210933145
 
 
 ## **Skills and Experience**
