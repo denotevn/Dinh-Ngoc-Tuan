@@ -13,7 +13,7 @@
 - 💬 Ask me about **AI/ML/DL/Algorithms**
 
 - 📫 **How to reach me ?** 
-    + Email: dinhngoctuan2131997@gmail.com
+    + Email: dinhngoctuan6789@gmail.com
     + Facebook : [Tuan Dinh](https://www.facebook.com/profile.php?id=100011042762760)
     + Telegram or WhatsApps: +79210933145
 
